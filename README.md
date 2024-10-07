@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahaj Srivastava</h1>
-<h3 align="center">I am currently pursuing Bachelor of Technology in Computer Science and Engineering from MNNIT Allahabad.
-</h3>
+<h5 align="center">I am currently pursuing Bachelor of Technology in Computer Science and Engineering from MNNIT Allahabad.
+</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahaj-96&label=Profile%20views&color=0e75b6&style=flat" alt="sahaj-96" /> </p>
 
